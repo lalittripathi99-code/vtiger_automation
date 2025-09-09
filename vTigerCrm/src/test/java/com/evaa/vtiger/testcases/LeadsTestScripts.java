@@ -54,7 +54,7 @@ public void loginBefore(Method mt) {                                   //  @befo
 	@AfterMethod                                              //   @test
 public void logOutafter() {                                  //   @AfterMethod
 	// logout
- //wu.closeCurrentBrowser(" close current browser");		                                                      //   @AfterClass
+ //wu.closeCurrentBrowser(" close current running browser");		                                                      //   @AfterClass
 }                                                            //    @AfterTest  
 //	@AfterClass                                              //    @AfterSuite
 //	public void closeBrowser() {
