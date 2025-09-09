@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-07T13:55:58 EDT" name="Default suite" finished-at="2025-09-07T13:56:24 EDT" duration-ms="26004">
+    <groups>
+    </groups>
+    <test started-at="2025-09-07T13:55:58 EDT" name="Default test" finished-at="2025-09-07T13:56:24 EDT" duration-ms="26004">
+      <class name="com.evaa.vtiger.testcases.LeadsTestScripts">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.evaa.vtiger.testcases.LeadsTestScripts@359df09a]" started-at="2025-09-07T13:55:57 EDT" name="beforeSuite" finished-at="2025-09-07T13:55:58 EDT" duration-ms="1296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="loginBefore(java.lang.reflect.Method)[pri:0, instance:com.evaa.vtiger.testcases.LeadsTestScripts@359df09a]" started-at="2025-09-07T13:55:58 EDT" name="loginBefore" finished-at="2025-09-07T13:56:05 EDT" duration-ms="6717" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.evaa.vtiger.testcases.LeadsTestScripts.vt001VerifyLeadWithRequiredFields()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBefore -->
+        <test-method signature="vt001VerifyLeadWithRequiredFields()[pri:0, instance:com.evaa.vtiger.testcases.LeadsTestScripts@359df09a]" started-at="2025-09-07T13:56:05 EDT" name="vt001VerifyLeadWithRequiredFields" finished-at="2025-09-07T13:56:20 EDT" duration-ms="14683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vt001VerifyLeadWithRequiredFields -->
+        <test-method is-config="true" signature="logOutafter()[pri:0, instance:com.evaa.vtiger.testcases.LeadsTestScripts@359df09a]" started-at="2025-09-07T13:56:20 EDT" name="logOutafter" finished-at="2025-09-07T13:56:20 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutafter -->
+        <test-method is-config="true" signature="loginBefore(java.lang.reflect.Method)[pri:0, instance:com.evaa.vtiger.testcases.LeadsTestScripts@359df09a]" started-at="2025-09-07T13:56:20 EDT" name="loginBefore" finished-at="2025-09-07T13:56:22 EDT" duration-ms="2411" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.evaa.vtiger.testcases.LeadsTestScripts.vt002VerifyLeadWithAllFields()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBefore -->
+        <test-method signature="vt002VerifyLeadWithAllFields()[pri:0, instance:com.evaa.vtiger.testcases.LeadsTestScripts@359df09a]" started-at="2025-09-07T13:56:22 EDT" name="vt002VerifyLeadWithAllFields" finished-at="2025-09-07T13:56:24 EDT" duration-ms="1976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vt002VerifyLeadWithAllFields -->
+        <test-method is-config="true" signature="logOutafter()[pri:0, instance:com.evaa.vtiger.testcases.LeadsTestScripts@359df09a]" started-at="2025-09-07T13:56:24 EDT" name="logOutafter" finished-at="2025-09-07T13:56:24 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutafter -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.evaa.vtiger.testcases.LeadsTestScripts@359df09a]" started-at="2025-09-07T13:56:24 EDT" name="afterSuite" finished-at="2025-09-07T13:56:25 EDT" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.evaa.vtiger.testcases.LeadsTestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
